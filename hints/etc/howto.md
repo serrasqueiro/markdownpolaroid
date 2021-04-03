@@ -1,5 +1,7 @@
 # How-to use this repository, in a nutshell
 
+- [About][#about] the author
+
 ## My first markdown hello world in HTML
 
 Here is a sample on how to generate HTML from a markdown file (either extension '.md' or '.markdown'); you can use markdown module in Python, as follow in the next example.
@@ -66,4 +68,8 @@ straight forward (since it was **not** copied from https://github.com/google/).
 [id]: https://github.com/google/region-flags/blob/gh-pages/png/PT.png?raw=true "Portuguese flag"
 [id2]: https://raw.githubusercontent.com/serrasqueiro/region-flags/master/png/PT.png "Portuguese flag png"
 [123]: https://github.com/google/region-flags/blob/gh-pages/svg/PT.svg "Google region-flags, a fork from Behdad"
+
+## <a name="about"></a>About the author
+
+`markdownpolaroid` started in (c) 2021, by Henrique Moreira; check me out [here](./consider_me.html).
 
